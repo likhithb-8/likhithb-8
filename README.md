@@ -4,27 +4,27 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&width=550&lines=CSBS+Undergraduate;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cloud+Security+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&width=600&lines=CSBS+Undergraduate;AI+%26+ML+Explorer;Full-Stack+Developer;Cloud+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 <!-- Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learner-2ecc71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-2ecc71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Security-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Security-Learner-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science and Business Systems undergraduate  
-💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
-🛠️ Focused on building **practical, real-world applications**  
-🌱 Continuously learning through internships and hands-on practice  
-📍 Kasaragod, Kerala, India  
+🎓 Computer Science and Business Systems (CSBS) undergraduate  
+💡 Interested in **AI, Machine Learning, and Full-Stack Development**  
+🛠️ Enjoy building **practical, real-world projects**  
+🌱 Learning through internships, projects, and continuous practice  
+📍 Kasaragod, Kerala, India 🇮🇳  
 
 ---
 
@@ -87,7 +87,7 @@
   <a href="mailto:likhithb321@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/likhith-b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/likhithb-8">
@@ -98,5 +98,5 @@
 ---
 
 <p align="center">
-  ⚡ <i>Learning by building. Growing by doing.</i>
+  ⚡ <i>Building skills today for real-world impact tomorrow.</i>
 </p>
