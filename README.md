@@ -11,7 +11,7 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CS%20%26%20BS-Enthusiast-2ecc71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-2ecc71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud-Security-Learner-orange?style=for-the-badge" />
 </p>
